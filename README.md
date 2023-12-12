@@ -8,7 +8,7 @@ All files are
 accessible through repository varje.github.io
 
 ```
-git pull origin master
+git pull origin main
 ```
 
 ## Usage
